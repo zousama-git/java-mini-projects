@@ -1,0 +1,11 @@
+# Smart ATM Withdrawal Simulator
+
+## Overview
+This repository contains a Java program that simulates an ATM withdrawal process, including transaction fees, balance updates, and daily withdrawal limit validation. It models basic decision-making logic found in financial systems.
+
+## Concepts Covered
+* Conditional logic (`if-else`)
+* Method
+* Boolean logic and validation checks
+* Working with constants and variables
+* Object instantiation and method calls

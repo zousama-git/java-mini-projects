@@ -6,8 +6,8 @@ import java.util.Scanner;
  a ractangle then calculates the area
  */
 
-public class main {
-     static void rectangle_area(String[] args) {
+public class rectangle_area {
+     static void main(String[] args) {
          // Create a Scanner object to read user input from the console
          Scanner scanner = new Scanner(System.in);
 
