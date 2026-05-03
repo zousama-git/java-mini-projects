@@ -35,6 +35,6 @@ public class RPS{
 		}
 		while (option == 'N');
 		
-		
+		input.close();
 	}
 }
